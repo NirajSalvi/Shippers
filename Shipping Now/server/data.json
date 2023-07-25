@@ -1,0 +1,19 @@
+// url = POST /add
+{
+    "customer_name": "niraj",
+    "ship_name": "abcd",
+    "item_des": "Electronics",
+    "source": "BOM",
+    "destination": "MAD",
+    "weight": 100
+}
+// url = POST /editOrder/{id}
+// url = POST /update/{id}
+{
+    "customer_name": "niraj",
+    "ship_name": "abcddeed",
+    "item_des": "Electroniasdfasdfcs",
+    "source": "BOM",
+    "destination": "MAD",
+    "weight": 120
+}
